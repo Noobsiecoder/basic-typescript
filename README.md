@@ -12,7 +12,7 @@
 
 # 📑 Difference between TypeScript and JavaScript
 
-| TypeScript                                                      | JavaScript                                        |
+| **TypeScript**                                                  | **JavaScript**                                    |
 | :-------------------------------------------------------------- | :------------------------------------------------ |
 | It is an _Object oriented programming language_                 | It is a _scripting language_                      |
 | It has static typing                                            | It doesn't have static typing                     |
@@ -26,7 +26,7 @@
 - It makes it easier for teams to work on the same project, as the language allows for modification and produces readable code.
 - If there are multiple developers working on one project, it prevents lots of wasted time on debugging.
 - **TypeScript** uses **NPM**, which gives you access to millions of reliable libraries.
-- It is easier to maintain and makes it easier to use **React**, **Angular**, and **Vue**. 
+- It is easier to maintain and makes it easier to use **React**, **Angular**, and **Vue**.
 - **TypeScript** integrates well with these frameworks, particularly **React**, which has been described as a perfect fit with **TypeScript**.
 
 # 🚀 Install TypeScript
